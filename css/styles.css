@@ -773,6 +773,7 @@ a {
 }
 .close-button:active {
   background-color: orange;
+  fill: white;
 }
 .close {
   width: 11px;
