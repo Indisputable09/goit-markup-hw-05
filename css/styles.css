@@ -768,8 +768,8 @@ a {
 }
 .close-button:hover,
 .close-button:focus {
-  background-color: var(--button-order-background-hover-focus-color);
-  fill: white;
+  background-color: white;
+  fill: var(--button-order-background-hover-focus-color);
 }
 .close-button:active {
   background-color: orange;
