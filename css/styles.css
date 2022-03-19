@@ -415,7 +415,6 @@ footer {
   background-color: var(--section1-footer-background-color);
   padding-top: 60px;
   padding-bottom: 60px;
-  max-width: 1600px;
 }
 footer .logo {
   margin-top: 0;
